@@ -30,7 +30,7 @@ if (typeof window !== "undefined") {
   }
 }
 
-export function register(swUrl, hooks = {}) {
+exports.register = function register(swUrl, hooks = {}) {
   const { registrationOptions = {} } = hooks;
   delete hooks.registrationOptions;
 
@@ -119,7 +119,7 @@ function checkValidServiceWorker(swUrl, emit, registrationOptions) {
     .catch(error => handleError(emit, error));
 }
 
-export function unregister() {
+exports.unregister = function unregister() {
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.ready.then(registration => {
       registration.unregister();

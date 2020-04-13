@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/chaitanyapotti/register-service-worker#readme",
   "devDependencies": {
-    "buble": "^0.18.0",
-    "conventional-changelog-cli": "^2.0.1"
+    "buble": "^0.20.0",
+    "conventional-changelog-cli": "^2.0.31"
   }
 }
