@@ -1,3 +1,29 @@
+## [1.7.4](https://github.com/chaitanyapotti/register-service-worker/compare/v1.7.3...v1.7.4) (2024-03-12)
+
+
+### Bug Fixes
+
+* catch serviceWorker.ready Promise rejections ([#46](https://github.com/chaitanyapotti/register-service-worker/issues/46)) ([563fa94](https://github.com/chaitanyapotti/register-service-worker/commit/563fa94e2aa1f9b2bd724f58be75d08544c4206c)), closes [#45](https://github.com/chaitanyapotti/register-service-worker/issues/45)
+
+
+
+## [1.7.3](https://github.com/chaitanyapotti/register-service-worker/compare/v1.7.2...v1.7.3) (2020-04-13)
+
+
+
+## [1.7.4](https://github.com/chaitanyapotti/register-service-worker/compare/v1.7.3...v1.7.4) (2024-03-12)
+
+
+### Bug Fixes
+
+* catch serviceWorker.ready Promise rejections ([#46](https://github.com/chaitanyapotti/register-service-worker/issues/46)) ([563fa94](https://github.com/chaitanyapotti/register-service-worker/commit/563fa94e2aa1f9b2bd724f58be75d08544c4206c)), closes [#45](https://github.com/chaitanyapotti/register-service-worker/issues/45)
+
+
+
+## [1.7.3](https://github.com/chaitanyapotti/register-service-worker/compare/v1.7.2...v1.7.3) (2020-04-13)
+
+
+
 <a name="1.7.4"></a>
 ## [1.7.4](https://github.com/yyx990803/register-service-worker/compare/v1.7.1...v1.7.2) (2020-12-10)
 
