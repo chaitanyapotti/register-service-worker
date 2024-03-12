@@ -1,11 +1,17 @@
-<a name="1.7.2"></a>
-## [1.7.2](https://github.com/yyx990803/register-service-worker/compare/v1.7.1...v1.7.2) (2020-12-10)
+<a name="1.7.4"></a>
+## [1.7.4](https://github.com/yyx990803/register-service-worker/compare/v1.7.1...v1.7.2) (2020-12-10)
 
 
 ### Bug Fixes
 
 * catch serviceWorker.ready Promise rejections ([#46](https://github.com/yyx990803/register-service-worker/issues/46)) ([563fa94](https://github.com/yyx990803/register-service-worker/commit/563fa94)), closes [#45](https://github.com/yyx990803/register-service-worker/issues/45)
 
+## [1.7.3](https://github.com/chaitanyapotti/register-service-worker/compare/v1.7.2...v1.7.3) (2020-04-13)
+
+
+
+<a name="1.7.2"></a>
+## [1.7.2](https://github.com/chaitanyapotti/register-service-worker/compare/v1.7.1...v1.7.2) (2020-03-29)
 
 
 <a name="1.7.1"></a>
